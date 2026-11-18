@@ -1,0 +1,18 @@
+{
+  "P01": {"label": "hidden", "mapping": {"x": "q", "m": "L", "c": "R", "k": "1/C", "F": "V"}},
+  "P02": {"label": "hidden", "mapping": {"u": "n", "alpha": "Dm"}},
+  "P03": {"label": "hidden", "mapping": {"x": "a", "y": "b", "z": "c"}},
+  "P04": {"label": "hidden", "mapping": {"U": "W", "x": "V", "k": "C"}},
+  "P05": {"label": "hidden", "mapping": {"Qf": "I", "dP": "V", "Rh": "R"}},
+  "P06": {"label": "hidden", "mapping": {"F1": "I1", "F2": "I2", "P": "Is"}},
+  "P07": {"label": "hidden", "mapping": {"N": "Q", "lam": "1/(R*C)"}},
+  "P08": {"label": "hidden", "mapping": {"th": "q", "g": "1", "l": "L*C"}},
+  "P09": {"label": "decoy", "mapping": null, "why": "drag force goes with speed squared: non-linear"},
+  "P10": {"label": "decoy", "mapping": null, "why": "logistic growth has a P squared term: non-linear"},
+  "P11": {"label": "decoy", "mapping": null, "why": "large-angle pendulum has sin(theta): non-linear"},
+  "P12": {"label": "decoy", "mapping": null, "why": "heat is 1st order in time, waves are 2nd order"},
+  "P13": {"label": "decoy", "mapping": null, "why": "radiation goes with T to the 4th power"},
+  "P14": {"label": "decoy", "mapping": null, "why": "spring energy goes with x squared, gravity with 1/r"},
+  "P15": {"label": "decoy", "mapping": {"x": "p", "y": "s"}, "why": "same tree shape, but OR and XOR differ when both inputs are true"},
+  "P16": {"label": "decoy", "mapping": null, "why": "free fall has no restoring term"}
+}

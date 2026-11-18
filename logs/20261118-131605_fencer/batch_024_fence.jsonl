@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Assortative mixing", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Sethi-Skiba point", "field": "economics", "status": "ok", "kept": true, "topic_id": "W084", "equations": 7}
+{"action": "fence", "title": "Bootstrapping (finance)", "field": "finance", "status": "ok", "kept": true, "topic_id": "W085", "equations": 2}
+{"action": "fence", "title": "Acoustic transmission", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Huygens principle of double refraction", "field": "optics", "status": "ok", "kept": true, "topic_id": "W086", "equations": 2}
+{"action": "fence", "title": "Gallium-68 generator", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Controllability Gramian", "field": "control", "status": "ok", "kept": true, "topic_id": "W087", "equations": 24}
+{"action": "fence", "title": "Binding potential", "field": "pharmacology", "status": "ok", "kept": true, "topic_id": "W088", "equations": 6}
+{"action": "fence", "title": "Kirchhoff equations", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W089", "equations": 4}
+{"action": "fence", "title": "Ambiguity resolution", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}

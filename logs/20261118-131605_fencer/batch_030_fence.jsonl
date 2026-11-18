@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Fermat's principle", "field": "optics", "status": "ok", "kept": true, "topic_id": "W112", "equations": 11}
+{"action": "fence", "title": "Gamma spectroscopy", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Derivation of the Routh array", "field": "control", "status": "ok", "kept": true, "topic_id": "W113", "equations": 65}
+{"action": "fence", "title": "Free fraction", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Classical mechanics", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W114", "equations": 26}
+{"action": "fence", "title": "Electromagnetic tensor", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W115", "equations": 53}
+{"action": "fence", "title": "Thermodynamic diagrams", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Blade element momentum theory", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W116", "equations": 49}
+{"action": "fence", "title": "Limiting factor", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Community matrix", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W117", "equations": 2}

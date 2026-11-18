@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Gladstone–Dale relation", "field": "optics", "status": "ok", "kept": true, "topic_id": "W055", "equations": 12}
+{"action": "fence", "title": "Decay correction", "field": "nuclear", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Concurrent estimation", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Enteric coating", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Newton–Euler equations", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W056", "equations": 2}
+{"action": "fence", "title": "Dielectric loss", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W057", "equations": 15}
+{"action": "fence", "title": "Condenser (heat transfer)", "field": "thermal", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Bernoulli grip", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Defining equation (physical chemistry)", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W058", "equations": 3}
+{"action": "fence", "title": "Mark and recapture", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W059", "equations": 9}

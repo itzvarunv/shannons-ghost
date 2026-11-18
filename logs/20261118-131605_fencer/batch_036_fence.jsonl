@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Constraint (mechanics)", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Catapult effect", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Economizer", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Fairey Engineering Ltd", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cryochemistry", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Isodar", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Correlates of immunity", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Backwardness", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Compound interest", "field": "finance", "status": "ok", "kept": true, "topic_id": "W137", "equations": 32}
+{"action": "fence", "title": "Acoustic attenuation", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W138", "equations": 4}

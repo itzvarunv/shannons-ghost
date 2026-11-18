@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Heat", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W186", "equations": 24}
+{"action": "fence", "title": "Parflange F37", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Brønsted catalysis equation", "field": "chemistry", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Threatened species", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "All of Us (initiative)", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Circular flow of income", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Autoregressive conditional duration", "field": "finance", "status": "ok", "kept": true, "topic_id": "W187", "equations": 3}
+{"action": "fence", "title": "Acoustic quieting", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Collimated transmission theory", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Background radiation", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

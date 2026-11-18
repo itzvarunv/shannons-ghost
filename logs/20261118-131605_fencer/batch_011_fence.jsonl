@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Grashof number", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W037", "equations": 46}
+{"action": "fence", "title": "Hydraulic clearance", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Kinetic chain length", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W038", "equations": 5}
+{"action": "fence", "title": "KPP–Fisher equation", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W039", "equations": 12}
+{"action": "fence", "title": "Cause of death", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dixit–Stiglitz model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W040", "equations": 18}
+{"action": "fence", "title": "Exotic option", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic metric", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W041", "equations": 4}
+{"action": "fence", "title": "Figuring", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Collective dose", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

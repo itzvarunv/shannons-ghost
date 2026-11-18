@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Fictitious force", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W050", "equations": 37}
+{"action": "fence", "title": "Classical electromagnetism and special relativity", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W051", "equations": 25}
+{"action": "fence", "title": "Consumption map", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Maritime hydraulics in antiquity", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "BET theory", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W052", "equations": 31}
+{"action": "fence", "title": "Human overpopulation", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bradford Hill criteria", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Aghion–Howitt model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W053", "equations": 24}
+{"action": "fence", "title": "Beta (finance)", "field": "finance", "status": "ok", "kept": true, "topic_id": "W054", "equations": 7}
+{"action": "fence", "title": "Acoustic wayfinding", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}

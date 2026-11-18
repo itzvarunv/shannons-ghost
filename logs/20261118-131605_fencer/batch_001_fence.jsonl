@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Bouncing ball", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W001", "equations": 16}
+{"action": "fence", "title": "Voltage doubler", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Heat exchanger", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W002", "equations": 17}
+{"action": "fence", "title": "Aerosol", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W003", "equations": 19}
+{"action": "fence", "title": "Computational chemistry", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Natality in population ecology", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "COVID fatigue", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Slutsky equation", "field": "economics", "status": "ok", "kept": true, "topic_id": "W004", "equations": 24}
+{"action": "fence", "title": "Alpha Profiling", "field": "finance", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Acoustic communication", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}

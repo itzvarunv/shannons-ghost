@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Admissible trading strategy", "field": "finance", "status": "ok", "kept": true, "topic_id": "W194", "equations": 3}
+{"action": "fence", "title": "Acoustic seabed classification", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Group-velocity dispersion", "field": "optics", "status": "ok", "kept": true, "topic_id": "W195", "equations": 18}
+{"action": "fence", "title": "Copernicium", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bicycle and motorcycle dynamics", "field": "control", "status": "ok", "kept": true, "topic_id": "W196", "equations": 14}
+{"action": "fence", "title": "NONMEM", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Damping matrix", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W197", "equations": 3}
+{"action": "fence", "title": "Conserved current", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W198", "equations": 9}
+{"action": "fence", "title": "Control volume", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W199", "equations": 7}
+{"action": "fence", "title": "Added mass", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W200", "equations": 5}

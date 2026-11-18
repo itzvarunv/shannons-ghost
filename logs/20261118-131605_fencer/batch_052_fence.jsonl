@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Causal pie model", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Averch–Johnson effect", "field": "economics", "status": "ok", "kept": true, "topic_id": "W183", "equations": 6}
+{"action": "fence", "title": "Brace-Gatarek-Musiela model", "field": "finance", "status": "ok", "kept": true, "topic_id": "W184", "equations": 5}
+{"action": "fence", "title": "Acoustic harassment device", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dichromatism", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Four factor formula", "field": "nuclear", "status": "ok", "kept": true, "topic_id": "W185", "equations": 3}
+{"action": "fence", "title": "Compensator (control theory)", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dose dumping", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Screw joint", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Center tap", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Copper coulometer", "field": "chemistry", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Dispersal vector", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Epidemiology of binge drinking", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bargaining model of war", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Behavioural finance", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic holography", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Group delay and phase delay", "field": "optics", "status": "ok", "kept": true, "topic_id": "W152", "equations": 33}
+{"action": "fence", "title": "Nuclear data", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Discretization", "field": "control", "status": "ok", "kept": true, "topic_id": "W153", "equations": 20}
+{"action": "fence", "title": "Brain-to-blood ratio", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}

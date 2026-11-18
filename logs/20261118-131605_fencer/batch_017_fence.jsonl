@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Behavioral medicine", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Job demands-resources model", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Binomial options pricing model", "field": "finance", "status": "ok", "kept": true, "topic_id": "W060", "equations": 8}
+{"action": "fence", "title": "Acoustic panel", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Jones calculus", "field": "optics", "status": "ok", "kept": true, "topic_id": "W061", "equations": 27}
+{"action": "fence", "title": "Enriched Xenon Observatory", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bartels–Stewart algorithm", "field": "control", "status": "ok", "kept": true, "topic_id": "W062", "equations": 17}
+{"action": "fence", "title": "Flip–flop kinetics", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Kuramoto model", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W063", "equations": 36}
+{"action": "fence", "title": "Arbiter (electronics)", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}

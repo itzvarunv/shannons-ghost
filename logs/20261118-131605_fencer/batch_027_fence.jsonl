@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Complete market", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic radiation pressure", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Exit pupil", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Atomic nucleus", "field": "nuclear", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Control reconfiguration", "field": "control", "status": "ok", "kept": true, "topic_id": "W099", "equations": 4}
+{"action": "fence", "title": "IdMOC", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Fradkin tensor", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W100", "equations": 10}
+{"action": "fence", "title": "A Dynamical Theory of the Electromagnetic Field", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W101", "equations": 17}
+{"action": "fence", "title": "Conjugate convective heat transfer", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Flow in partially full conduits", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W102", "equations": 11}

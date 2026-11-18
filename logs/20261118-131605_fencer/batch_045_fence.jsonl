@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Basic reproduction number", "field": "epidemiology", "status": "ok", "kept": true, "topic_id": "W163", "equations": 2}
+{"action": "fence", "title": "Lange model", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cointegration", "field": "finance", "status": "ok", "kept": true, "topic_id": "W164", "equations": 4}
+{"action": "fence", "title": "Acoustic pod", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Folded optics", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Alpha nuclide", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Distributed parameter system", "field": "control", "status": "ok", "kept": true, "topic_id": "W165", "equations": 25}
+{"action": "fence", "title": "Liberation (pharmacology)", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Exact solutions of classical central-force problems", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W166", "equations": 4}
+{"action": "fence", "title": "Marx generator", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}

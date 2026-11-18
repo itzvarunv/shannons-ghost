@@ -1,0 +1,109 @@
+{
+  "score": {
+    "TP": 8,
+    "FN": 0,
+    "FP": 0,
+    "TN": 8,
+    "recall": 1.0,
+    "precision": 1.0
+  },
+  "extraction_correct": "25/25",
+  "rows": [
+    {
+      "pair_id": "Q01",
+      "label": "decoy",
+      "plain_pair": "P11",
+      "accepted": false
+    },
+    {
+      "pair_id": "Q02",
+      "label": "decoy",
+      "plain_pair": "P09",
+      "accepted": false
+    },
+    {
+      "pair_id": "Q03",
+      "label": "hidden",
+      "plain_pair": "P08",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q04",
+      "label": "decoy",
+      "plain_pair": "P16",
+      "accepted": false
+    },
+    {
+      "pair_id": "Q05",
+      "label": "hidden",
+      "plain_pair": "P03",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q06",
+      "label": "hidden",
+      "plain_pair": "P04",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q07",
+      "label": "hidden",
+      "plain_pair": "P07",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q08",
+      "label": "decoy",
+      "plain_pair": "P10",
+      "accepted": false
+    },
+    {
+      "pair_id": "Q09",
+      "label": "hidden",
+      "plain_pair": "P02",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q10",
+      "label": "decoy",
+      "plain_pair": "P13",
+      "accepted": false
+    },
+    {
+      "pair_id": "Q11",
+      "label": "hidden",
+      "plain_pair": "P06",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q12",
+      "label": "decoy",
+      "plain_pair": "P12",
+      "accepted": false
+    },
+    {
+      "pair_id": "Q13",
+      "label": "hidden",
+      "plain_pair": "P05",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q14",
+      "label": "hidden",
+      "plain_pair": "P01",
+      "accepted": true
+    },
+    {
+      "pair_id": "Q15",
+      "label": "decoy",
+      "plain_pair": "P15",
+      "accepted": false
+    },
+    {
+      "pair_id": "Q16",
+      "label": "decoy",
+      "plain_pair": "P14",
+      "accepted": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Dufour effect", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Heron's fountain", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Induction period", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Carrying capacity", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W090", "equations": 4}
+{"action": "fence", "title": "Epidemiology", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Double marginalization", "field": "economics", "status": "ok", "kept": true, "topic_id": "W091", "equations": 10}
+{"action": "fence", "title": "Early repayment charge", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic foam", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Inverse problem in optics", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dosimetry", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

@@ -1,0 +1,9 @@
+flowchart TD
+    S["Fencer: Wikipedia science categories, 14 fields"] --> F["Fence: drop pages with 0–1 equations, list or history pages"]
+    F --> B["Extractor · Gemma 4 31B<br/>article → its governing equation"]
+    B --> P["Anchor pairing<br/>each topic + a topic from another field with the same equation shape"]
+    P --> E["Judge · Gemini 3.5 Flash Lite<br/>proposes a mapping, scores 0–10"]
+    E --> M["Mapping check · sympy<br/>does A really become B?"]
+    M --> R["Ranked report: score ≥ 7 flagged for human review"]
+    F -- fenced --> X["Dropped, still logged"]
+    B -- no single equation --> X

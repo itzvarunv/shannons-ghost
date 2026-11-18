@@ -1,0 +1,10 @@
+{
+  "candidates_seen": 550,
+  "kept": 200,
+  "fenced": 350,
+  "extracted": 128,
+  "pairs": 19,
+  "judged": 19,
+  "flagged_for_review": 9,
+  "flagged_and_verified": 6
+}

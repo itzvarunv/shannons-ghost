@@ -1,0 +1,18 @@
+[
+  {"pair_id": "P01", "a": "msd", "b": "rlc"},
+  {"pair_id": "P02", "a": "heat", "b": "diffusion"},
+  {"pair_id": "P03", "a": "boolean", "b": "relay"},
+  {"pair_id": "P04", "a": "spring_energy", "b": "capacitor_energy"},
+  {"pair_id": "P05", "a": "pipe", "b": "ohm"},
+  {"pair_id": "P06", "a": "truss_node", "b": "kcl"},
+  {"pair_id": "P07", "a": "decay", "b": "rc"},
+  {"pair_id": "P08", "a": "pendulum_small", "b": "lc"},
+  {"pair_id": "P09", "a": "msd", "b": "quad_drag"},
+  {"pair_id": "P10", "a": "decay", "b": "logistic"},
+  {"pair_id": "P11", "a": "pendulum_full", "b": "lc"},
+  {"pair_id": "P12", "a": "heat", "b": "wave"},
+  {"pair_id": "P13", "a": "ohm", "b": "stefan"},
+  {"pair_id": "P14", "a": "spring_energy", "b": "grav"},
+  {"pair_id": "P15", "a": "boolean_or", "b": "parity"},
+  {"pair_id": "P16", "a": "freefall", "b": "lc"}
+]

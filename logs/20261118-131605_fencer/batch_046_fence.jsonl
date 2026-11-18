@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Thermal paste", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Auxiliary hydraulic system", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Heterogeneous gold catalysis", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Microbial population biology", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Comorbidity", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Choice modelling", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Discount points", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic mirror", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Helmholtz reciprocity", "field": "optics", "status": "ok", "kept": true, "topic_id": "W167", "equations": 5}
+{"action": "fence", "title": "Atomic spacing", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "AZFinText", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic trauma", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Optical engineering", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cargo scanning", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Control (management)", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Microdosing", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "MacCullagh ellipsoid", "field": "mechanics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Electromagnetic field", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W150", "equations": 10}
+{"action": "fence", "title": "Burn", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Net positive suction head", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W151", "equations": 8}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Autocatalytic reaction", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W132", "equations": 7}
+{"action": "fence", "title": "Biocapacity", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Case fatality rate", "field": "epidemiology", "status": "ok", "kept": true, "topic_id": "W133", "equations": 2}
+{"action": "fence", "title": "Input–output model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W134", "equations": 19}
+{"action": "fence", "title": "Certificate in Quantitative Finance", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustical Society of America", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "AIC Judd Award", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Tom W. Bonner Prize", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cross Gramian", "field": "control", "status": "ok", "kept": true, "topic_id": "W135", "equations": 7}
+{"action": "fence", "title": "Patlak plot", "field": "pharmacology", "status": "ok", "kept": true, "topic_id": "W136", "equations": 2}

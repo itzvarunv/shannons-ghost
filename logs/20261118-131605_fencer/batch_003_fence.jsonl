@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Coinfection", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Classical general equilibrium model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W007", "equations": 7}
+{"action": "fence", "title": "Efficient frontier", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic wave", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W008", "equations": 17}
+{"action": "fence", "title": "Collimated beam", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Borromean nucleus", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dead-beat control", "field": "control", "status": "ok", "kept": true, "topic_id": "W009", "equations": 5}
+{"action": "fence", "title": "PKPD model", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bloch oscillation", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W010", "equations": 7}
+{"action": "fence", "title": "Redstone (Minecraft)", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Mechanical joint", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Analytical regularization", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W077", "equations": 3}
+{"action": "fence", "title": "ASHRAE 55", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Fire sprinkler system", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bolaamphiphile", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Evolutionary invasion analysis", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W078", "equations": 5}
+{"action": "fence", "title": "Biological plausibility", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Domar serfdom model", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Consumer math", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic tag", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}

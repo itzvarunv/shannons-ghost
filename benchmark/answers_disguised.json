@@ -1,0 +1,490 @@
+{
+  "topics": {
+    "T10": {
+      "id": "T10",
+      "kind": "ode",
+      "equation": "su2*D(mi6, pe7, 2) + pa9*D(mi6, pe7, 1) + ni8*mi6 = hu5",
+      "independent": [
+        "pe7"
+      ],
+      "dependent": [
+        "mi6"
+      ],
+      "params": [
+        "su2",
+        "pa9",
+        "ni8",
+        "hu5"
+      ]
+    },
+    "T09": {
+      "id": "T09",
+      "kind": "ode",
+      "equation": "su9*D(vo2, bi6, 2) + wa7*D(vo2, bi6, 1) + vo2/zu8 = su5",
+      "independent": [
+        "bi6"
+      ],
+      "dependent": [
+        "vo2"
+      ],
+      "params": [
+        "su9",
+        "wa7",
+        "zu8",
+        "su5"
+      ]
+    },
+    "T07": {
+      "id": "T07",
+      "kind": "pde",
+      "equation": "D(le1, tu8, 1) = za7*D(le1, zu1, 2)",
+      "independent": [
+        "tu8",
+        "zu1"
+      ],
+      "dependent": [
+        "le1"
+      ],
+      "params": [
+        "za7"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "kind": "pde",
+      "equation": "D(wu5, we8, 1) = si9*D(wu5, la8, 2)",
+      "independent": [
+        "we8",
+        "la8"
+      ],
+      "dependent": [
+        "wu5"
+      ],
+      "params": [
+        "si9"
+      ]
+    },
+    "T01": {
+      "id": "T01",
+      "kind": "logic",
+      "equation": "zo7 & (te5 | ma1)",
+      "variables": [
+        "zo7",
+        "te5",
+        "ma1"
+      ],
+      "semantics": {}
+    },
+    "T04": {
+      "id": "T04",
+      "kind": "logic",
+      "equation": "vu8(hu8, tu1(zo6, ki8))",
+      "variables": [
+        "hu8",
+        "zo6",
+        "ki8"
+      ],
+      "semantics": {
+        "vu8": "And",
+        "tu1": "Or"
+      }
+    },
+    "T03": {
+      "id": "T03",
+      "kind": "algebraic",
+      "equation": "go9 = to2*mo3**2/2",
+      "dependent": [
+        "go9",
+        "mo3"
+      ],
+      "params": [
+        "to2"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "kind": "algebraic",
+      "equation": "mo6 = ho1*ge7**2/2",
+      "dependent": [
+        "mo6",
+        "ge7"
+      ],
+      "params": [
+        "ho1"
+      ]
+    },
+    "T08": {
+      "id": "T08",
+      "kind": "algebraic",
+      "equation": "fa8 = fu4/la1",
+      "dependent": [
+        "fa8",
+        "fu4"
+      ],
+      "params": [
+        "la1"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "kind": "algebraic",
+      "equation": "mi3 = bi8/hu4",
+      "dependent": [
+        "mi3",
+        "bi8"
+      ],
+      "params": [
+        "hu4"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "kind": "algebraic",
+      "equation": "wu3 + zi2 = te3",
+      "dependent": [
+        "wu3",
+        "zi2",
+        "te3"
+      ],
+      "params": []
+    },
+    "T02": {
+      "id": "T02",
+      "kind": "algebraic",
+      "equation": "nu7 + se9 = ko1",
+      "dependent": [
+        "nu7",
+        "se9",
+        "ko1"
+      ],
+      "params": []
+    },
+    "T15": {
+      "id": "T15",
+      "kind": "ode",
+      "equation": "D(di6, go2, 1) = -ba9*di6",
+      "independent": [
+        "go2"
+      ],
+      "dependent": [
+        "di6"
+      ],
+      "params": [
+        "ba9"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "kind": "ode",
+      "equation": "D(vi2, wi5, 1) = -vi2/(wo3*hu9)",
+      "independent": [
+        "wi5"
+      ],
+      "dependent": [
+        "vi2"
+      ],
+      "params": [
+        "wo3",
+        "hu9"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "kind": "ode",
+      "equation": "D(vu4, ko6, 2) + (fu7/de3)*vu4 = 0",
+      "independent": [
+        "ko6"
+      ],
+      "dependent": [
+        "vu4"
+      ],
+      "params": [
+        "fu7",
+        "de3"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "kind": "ode",
+      "equation": "D(ve8, du1, 2) + ve8/(be9*ku3) = 0",
+      "independent": [
+        "du1"
+      ],
+      "dependent": [
+        "ve8"
+      ],
+      "params": [
+        "be9",
+        "ku3"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "kind": "ode",
+      "equation": "ta7*D(mo9, je7, 1) + ne6*mo9**2 = ta7*ji8",
+      "independent": [
+        "je7"
+      ],
+      "dependent": [
+        "mo9"
+      ],
+      "params": [
+        "ta7",
+        "ne6",
+        "ji8"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "kind": "ode",
+      "equation": "D(ve6, wo5, 1) = zo8*ve6*(1 - ve6/gu9)",
+      "independent": [
+        "wo5"
+      ],
+      "dependent": [
+        "ve6"
+      ],
+      "params": [
+        "zo8",
+        "gu9"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "kind": "ode",
+      "equation": "D(la2, ma4, 2) + (vi7/ja6)*sin(la2) = 0",
+      "independent": [
+        "ma4"
+      ],
+      "dependent": [
+        "la2"
+      ],
+      "params": [
+        "vi7",
+        "ja6"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "kind": "pde",
+      "equation": "D(ku5, ji9, 2) = mu3**2*D(ku5, ka5, 2)",
+      "independent": [
+        "ji9",
+        "ka5"
+      ],
+      "dependent": [
+        "ku5"
+      ],
+      "params": [
+        "mu3"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "kind": "algebraic",
+      "equation": "gi2 = di3*gu6*te2**4",
+      "dependent": [
+        "gi2",
+        "te2"
+      ],
+      "params": [
+        "di3",
+        "gu6"
+      ]
+    },
+    "T06": {
+      "id": "T06",
+      "kind": "algebraic",
+      "equation": "mu2 = -mi2*bo5*ta1/ni3",
+      "dependent": [
+        "mu2",
+        "ni3"
+      ],
+      "params": [
+        "mi2",
+        "bo5",
+        "ta1"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "kind": "logic",
+      "equation": "ge1 | na2",
+      "variables": [
+        "ge1",
+        "na2"
+      ],
+      "semantics": {}
+    },
+    "T05": {
+      "id": "T05",
+      "kind": "logic",
+      "equation": "ku8(ri8, do6)",
+      "variables": [
+        "ri8",
+        "do6"
+      ],
+      "semantics": {
+        "ku8": "Xor"
+      }
+    },
+    "T20": {
+      "id": "T20",
+      "kind": "ode",
+      "equation": "D(zi7, ta6, 2) = -ni1",
+      "independent": [
+        "ta6"
+      ],
+      "dependent": [
+        "zi7"
+      ],
+      "params": [
+        "ni1"
+      ]
+    }
+  },
+  "pairs": {
+    "Q01": {
+      "label": "decoy",
+      "mapping": null,
+      "plain_pair": "P11"
+    },
+    "Q02": {
+      "label": "decoy",
+      "mapping": null,
+      "plain_pair": "P09"
+    },
+    "Q03": {
+      "label": "hidden",
+      "mapping": {
+        "vu4": "ve8",
+        "fu7": "1",
+        "de3": "be9*ku3"
+      },
+      "plain_pair": "P08"
+    },
+    "Q04": {
+      "label": "decoy",
+      "mapping": null,
+      "plain_pair": "P16"
+    },
+    "Q05": {
+      "label": "hidden",
+      "mapping": {
+        "zo7": "hu8",
+        "te5": "zo6",
+        "ma1": "ki8"
+      },
+      "plain_pair": "P03"
+    },
+    "Q06": {
+      "label": "hidden",
+      "mapping": {
+        "go9": "mo6",
+        "mo3": "ge7",
+        "to2": "ho1"
+      },
+      "plain_pair": "P04"
+    },
+    "Q07": {
+      "label": "hidden",
+      "mapping": {
+        "di6": "vi2",
+        "ba9": "1/(wo3*hu9)"
+      },
+      "plain_pair": "P07"
+    },
+    "Q08": {
+      "label": "decoy",
+      "mapping": null,
+      "plain_pair": "P10"
+    },
+    "Q09": {
+      "label": "hidden",
+      "mapping": {
+        "le1": "wu5",
+        "za7": "si9"
+      },
+      "plain_pair": "P02"
+    },
+    "Q10": {
+      "label": "decoy",
+      "mapping": null,
+      "plain_pair": "P13"
+    },
+    "Q11": {
+      "label": "hidden",
+      "mapping": {
+        "wu3": "nu7",
+        "zi2": "se9",
+        "te3": "ko1"
+      },
+      "plain_pair": "P06"
+    },
+    "Q12": {
+      "label": "decoy",
+      "mapping": null,
+      "plain_pair": "P12"
+    },
+    "Q13": {
+      "label": "hidden",
+      "mapping": {
+        "fa8": "mi3",
+        "fu4": "bi8",
+        "la1": "hu4"
+      },
+      "plain_pair": "P05"
+    },
+    "Q14": {
+      "label": "hidden",
+      "mapping": {
+        "mi6": "vo2",
+        "su2": "su9",
+        "pa9": "wa7",
+        "ni8": "1/zu8",
+        "hu5": "su5"
+      },
+      "plain_pair": "P01"
+    },
+    "Q15": {
+      "label": "decoy",
+      "mapping": {
+        "ge1": "ri8",
+        "na2": "do6"
+      },
+      "plain_pair": "P15"
+    },
+    "Q16": {
+      "label": "decoy",
+      "mapping": null,
+      "plain_pair": "P14"
+    }
+  },
+  "plain_ids": {
+    "T01": "boolean",
+    "T02": "kcl",
+    "T03": "spring_energy",
+    "T04": "relay",
+    "T05": "parity",
+    "T06": "grav",
+    "T07": "heat",
+    "T08": "pipe",
+    "T09": "rlc",
+    "T10": "msd",
+    "T11": "wave",
+    "T12": "pendulum_full",
+    "T13": "ohm",
+    "T14": "pendulum_small",
+    "T15": "decay",
+    "T16": "lc",
+    "T17": "rc",
+    "T18": "logistic",
+    "T19": "capacitor_energy",
+    "T20": "freefall",
+    "T21": "stefan",
+    "T22": "boolean_or",
+    "T23": "quad_drag",
+    "T24": "truss_node",
+    "T25": "diffusion"
+  }
+}

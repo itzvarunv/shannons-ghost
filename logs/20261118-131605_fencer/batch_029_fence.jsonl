@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Classical probability density", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W106", "equations": 16}
+{"action": "fence", "title": "Electromagnetic mass", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W107", "equations": 55}
+{"action": "fence", "title": "Adiabatic accessibility", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W108", "equations": 3}
+{"action": "fence", "title": "Adverse pressure gradient", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Benson group increment theory", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Mesopredator release hypothesis", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Attributable fraction for the population", "field": "epidemiology", "status": "ok", "kept": true, "topic_id": "W109", "equations": 3}
+{"action": "fence", "title": "Brander–Spencer model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W110", "equations": 6}
+{"action": "fence", "title": "Earnings at risk", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic phonon", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W111", "equations": 34}

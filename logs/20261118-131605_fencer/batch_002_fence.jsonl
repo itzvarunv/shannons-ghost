@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Eye relief", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Decay energy", "field": "nuclear", "status": "ok", "kept": true, "topic_id": "W005", "equations": 6}
+{"action": "fence", "title": "American Automatic Control Council", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Parallel artificial membrane permeability assay", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Course of Theoretical Physics", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Mesh analysis", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W006", "equations": 3}
+{"action": "fence", "title": "Brownian motor", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Airlift pump", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Entropy of activation", "field": "chemistry", "status": "ok", "kept": false, "why": "only 2 equations"}
+{"action": "fence", "title": "Hassell model", "field": "population biology", "status": "ok", "kept": false, "why": "only 2 equations"}

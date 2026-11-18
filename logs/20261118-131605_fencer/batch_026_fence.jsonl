@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Data-driven control system", "field": "control", "status": "ok", "kept": true, "topic_id": "W092", "equations": 26}
+{"action": "fence", "title": "Oculomucocutaneous syndrome", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Oscillation (mathematics)", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W093", "equations": 7}
+{"action": "fence", "title": "Electromagnetic stress–energy tensor", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W094", "equations": 21}
+{"action": "fence", "title": "Electronic entropy", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W095", "equations": 5}
+{"action": "fence", "title": "Hydraulic engineering", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W096", "equations": 3}
+{"action": "fence", "title": "Detailed balance", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W097", "equations": 52}
+{"action": "fence", "title": "Baby boom", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Epidemiology of autism", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "AD–AS model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W098", "equations": 2}

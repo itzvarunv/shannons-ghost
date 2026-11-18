@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Exam FM", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic contrast factor", "field": "acoustics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Angular resolution", "field": "optics", "status": "ok", "kept": true, "topic_id": "W047", "equations": 7}
+{"action": "fence", "title": "Electron capture", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Fault detection and isolation", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cytochrome P450 (individual enzymes)", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Insulin oscillation", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Alternating current field measurement", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Convection (heat transfer)", "field": "thermal", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Electrohydraulic servo valve", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}

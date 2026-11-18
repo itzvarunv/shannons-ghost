@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Edgeworth binomial tree", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Absorption (acoustics)", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cladding (fiber optics)", "field": "optics", "status": "ok", "kept": true, "topic_id": "W171", "equations": 2}
+{"action": "fence", "title": "Alpha decay", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Energy-shaping control", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cytochrome P450", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Damping torque", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Glue logic", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Draper point", "field": "thermal", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Biorheology", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}

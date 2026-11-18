@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Fire point", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Hydraulic manifold", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Collision theory", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W123", "equations": 15}
+{"action": "fence", "title": "Floating population", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Compartmental models (epidemiology)", "field": "epidemiology", "status": "ok", "kept": true, "topic_id": "W124", "equations": 180}
+{"action": "fence", "title": "Kuhn's theorem", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Counterparty credit risk", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic angiography", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cone of rays", "field": "optics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Anomalon", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Copper in heat exchangers", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Blasius theorem", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W145", "equations": 5}
+{"action": "fence", "title": "Chemisorption", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W146", "equations": 2}
+{"action": "fence", "title": "Metaphoetesis", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Corrupted Blood incident", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dividend discount model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W147", "equations": 14}
+{"action": "fence", "title": "Earnings response coefficient", "field": "finance", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Acoustic impedance", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W148", "equations": 57}
+{"action": "fence", "title": "Aber (software)", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cosmogenic nuclide", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

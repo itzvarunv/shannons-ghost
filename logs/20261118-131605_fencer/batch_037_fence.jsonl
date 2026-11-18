@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Entrance pupil", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Commonly used gamma-emitting isotopes", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bode's sensitivity integral", "field": "control", "status": "ok", "kept": true, "topic_id": "W139", "equations": 3}
+{"action": "fence", "title": "Absorption (pharmacology)", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Binet equation", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W140", "equations": 31}
+{"action": "fence", "title": "Battery eliminator circuit", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bancroft point", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Boussinesq approximation (water waves)", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W141", "equations": 17}
+{"action": "fence", "title": "Allotropy", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Matrix population models", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W142", "equations": 4}

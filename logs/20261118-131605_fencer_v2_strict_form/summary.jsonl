@@ -1,0 +1,13 @@
+{"batch": 1, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_001_pair.jsonl"}
+{"batch": 2, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_002_pair.jsonl"}
+{"batch": 3, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_003_pair.jsonl"}
+{"batch": 4, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_004_pair.jsonl"}
+{"batch": 5, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_005_pair.jsonl"}
+{"batch": 6, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_006_pair.jsonl"}
+{"batch": 7, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_007_pair.jsonl"}
+{"batch": 8, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_008_pair.jsonl"}
+{"batch": 9, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_009_pair.jsonl"}
+{"batch": 10, "stage": "pair", "actions": 10, "ok": 10, "failed": 0, "file": "batch_010_pair.jsonl"}
+{"batch": 11, "stage": "pair", "actions": 9, "ok": 9, "failed": 0, "file": "batch_011_pair.jsonl"}
+{"batch": 12, "stage": "judge", "actions": 10, "ok": 10, "failed": 0, "file": "batch_012_judge.jsonl"}
+{"batch": 13, "stage": "judge", "actions": 9, "ok": 9, "failed": 0, "file": "batch_013_judge.jsonl"}

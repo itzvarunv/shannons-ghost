@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Computational epidemiology", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Charles F. Roos", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Adjusted current yield", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic resonance spectroscopy", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Forouhi–Bloomer model", "field": "optics", "status": "ok", "kept": true, "topic_id": "W033", "equations": 11}
+{"action": "fence", "title": "Coulomb barrier", "field": "nuclear", "status": "ok", "kept": true, "topic_id": "W034", "equations": 2}
+{"action": "fence", "title": "Bellman filter", "field": "control", "status": "ok", "kept": true, "topic_id": "W035", "equations": 14}
+{"action": "fence", "title": "Lipophilic efficiency", "field": "pharmacology", "status": "ok", "kept": true, "topic_id": "W036", "equations": 2}
+{"action": "fence", "title": "Polarization ripples", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Electromagnetic brake", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}

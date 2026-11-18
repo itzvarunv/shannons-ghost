@@ -1,0 +1,10 @@
+{"action": "form_check", "pair_id": "Q01", "a": "T12", "b": "T16", "status": "ok", "same_form": false, "sig_a": "('diff', 1, ((0,), (2,)), False, False)", "sig_b": "('diff', 1, ((0,), (2,)), True, False)"}
+{"action": "form_check", "pair_id": "Q02", "a": "T10", "b": "T23", "status": "ok", "same_form": false, "sig_a": "('diff', 1, ((0,), (1,), (2,)), True, True)", "sig_b": "('diff', 1, ((0,), (1,)), False, True)"}
+{"action": "form_check", "pair_id": "Q03", "a": "T14", "b": "T16", "status": "ok", "same_form": true, "sig_a": "('diff', 1, ((0,), (2,)), True, False)", "sig_b": "('diff', 1, ((0,), (2,)), True, False)"}
+{"action": "form_check", "pair_id": "Q04", "a": "T20", "b": "T16", "status": "ok", "same_form": false, "sig_a": "('diff', 1, ((2,),), True, True)", "sig_b": "('diff', 1, ((0,), (2,)), True, False)"}
+{"action": "form_check", "pair_id": "Q05", "a": "T01", "b": "T04", "status": "ok", "same_form": true, "sig_a": "('logic', 3, 'op2(op2(v,v),v)')", "sig_b": "('logic', 3, 'op2(op2(v,v),v)')"}
+{"action": "form_check", "pair_id": "Q06", "a": "T03", "b": "T19", "status": "ok", "same_form": true, "sig_a": "('algebraic', 2, (('1',), ('2',)))", "sig_b": "('algebraic', 2, (('1',), ('2',)))"}
+{"action": "form_check", "pair_id": "Q07", "a": "T15", "b": "T17", "status": "ok", "same_form": true, "sig_a": "('diff', 1, ((0,), (1,)), True, False)", "sig_b": "('diff', 1, ((0,), (1,)), True, False)"}
+{"action": "form_check", "pair_id": "Q08", "a": "T15", "b": "T18", "status": "ok", "same_form": false, "sig_a": "('diff', 1, ((0,), (1,)), True, False)", "sig_b": "('diff', 1, ((0,), (1,)), False, False)"}
+{"action": "form_check", "pair_id": "Q09", "a": "T07", "b": "T25", "status": "ok", "same_form": true, "sig_a": "('diff', 2, ((0, 2), (1, 0)), True, False)", "sig_b": "('diff', 2, ((0, 2), (1, 0)), True, False)"}
+{"action": "form_check", "pair_id": "Q10", "a": "T13", "b": "T21", "status": "ok", "same_form": false, "sig_a": "('algebraic', 3, (('-1', '1'), ('1',)))", "sig_b": "('algebraic', 2, (('1',), ('4',)))"}

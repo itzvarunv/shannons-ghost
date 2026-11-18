@@ -1,0 +1,6 @@
+{"action": "form_check", "pair_id": "Q11", "a": "T24", "b": "T02", "status": "ok", "same_form": true, "sig_a": "('algebraic', 3, (('1',), ('1',), ('1',)))", "sig_b": "('algebraic', 3, (('1',), ('1',), ('1',)))"}
+{"action": "form_check", "pair_id": "Q12", "a": "T07", "b": "T11", "status": "ok", "same_form": false, "sig_a": "('diff', 2, ((0, 2), (1, 0)), True, False)", "sig_b": "('diff', 2, ((0, 2), (2, 0)), True, False)"}
+{"action": "form_check", "pair_id": "Q13", "a": "T08", "b": "T13", "status": "ok", "same_form": true, "sig_a": "('algebraic', 3, (('-1', '1'), ('1',)))", "sig_b": "('algebraic', 3, (('-1', '1'), ('1',)))"}
+{"action": "form_check", "pair_id": "Q14", "a": "T10", "b": "T09", "status": "ok", "same_form": true, "sig_a": "('diff', 1, ((0,), (1,), (2,)), True, True)", "sig_b": "('diff', 1, ((0,), (1,), (2,)), True, True)"}
+{"action": "form_check", "pair_id": "Q15", "a": "T22", "b": "T05", "status": "ok", "same_form": true, "sig_a": "('logic', 2, 'op2(v,v)')", "sig_b": "('logic', 2, 'op2(v,v)')"}
+{"action": "form_check", "pair_id": "Q16", "a": "T03", "b": "T06", "status": "ok", "same_form": false, "sig_a": "('algebraic', 2, (('1',), ('2',)))", "sig_b": "('algebraic', 4, (('-1', '1', '1'), ('1',)))"}

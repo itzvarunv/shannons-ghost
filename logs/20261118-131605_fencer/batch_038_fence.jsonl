@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Clinical case definition", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Harris–Todaro model", "field": "economics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Absorbing barrier (finance)", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic plaster", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Erect image", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "International Radon Project", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Asymptotic gain model", "field": "control", "status": "ok", "kept": true, "topic_id": "W143", "equations": 26}
+{"action": "fence", "title": "Compartment (pharmacokinetics)", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Free motion equation", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W144", "equations": 3}
+{"action": "fence", "title": "Dielectric heating", "field": "electrical", "status": "ok", "kept": false, "why": "only 1 equations"}

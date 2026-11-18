@@ -1,0 +1,10 @@
+{"action": "fence", "title": "4D-RCS Reference Model Architecture", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Elimination (pharmacology)", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Chemical clock", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dissipation factor", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W013", "equations": 5}
+{"action": "fence", "title": "Cromer cycle", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Activation energy asymptotics", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W014", "equations": 3}
+{"action": "fence", "title": "Crossed molecular beam", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Hyperbolic growth", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W015", "equations": 4}
+{"action": "fence", "title": "Cognitive epidemiology", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Optimal rotation age", "field": "economics", "status": "ok", "kept": true, "topic_id": "W016", "equations": 13}

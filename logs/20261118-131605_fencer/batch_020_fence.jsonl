@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Financial econometrics", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic short circuit", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Complex beam parameter", "field": "optics", "status": "ok", "kept": true, "topic_id": "W070", "equations": 8}
+{"action": "fence", "title": "Ab initio methods (nuclear physics)", "field": "nuclear", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Delay differential equation", "field": "control", "status": "ok", "kept": true, "topic_id": "W071", "equations": 33}
+{"action": "fence", "title": "Biological half-life", "field": "pharmacology", "status": "ok", "kept": true, "topic_id": "W072", "equations": 5}
+{"action": "fence", "title": "Generalized coordinates", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W073", "equations": 50}
+{"action": "fence", "title": "Sweep generator", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bennett acceptance ratio", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W074", "equations": 9}
+{"action": "fence", "title": "Boussinesq approximation (buoyancy)", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W075", "equations": 8}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Apparent infection rate", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Heckscher–Ohlin model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W118", "equations": 5}
+{"action": "fence", "title": "Equity value", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic metamaterial", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W119", "equations": 2}
+{"action": "fence", "title": "Bandwidth-limited pulse", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Background radiation equivalent time", "field": "nuclear", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "State-transition equation", "field": "control", "status": "ok", "kept": true, "topic_id": "W120", "equations": 5}
+{"action": "fence", "title": "Dermal patch", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Reflection phase change", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W121", "equations": 8}
+{"action": "fence", "title": "Ampère's circuital law", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W122", "equations": 26}

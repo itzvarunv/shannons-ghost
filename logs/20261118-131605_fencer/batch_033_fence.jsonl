@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Consensus dynamics", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Enzyme induction and inhibition", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Berry connection and curvature", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W125", "equations": 38}
+{"action": "fence", "title": "Large-signal model", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Aerodynamic heating", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "London Hydraulic Power Company", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acid dissociation constant", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W126", "equations": 45}
+{"action": "fence", "title": "Age class structure", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "BioSense", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Almost ideal demand system", "field": "economics", "status": "ok", "kept": true, "topic_id": "W127", "equations": 6}

@@ -1,0 +1,10 @@
+{"action": "pair", "anchor": "W130", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(pow(v,2),pow(v,2),pow(v,2)),0.500000000000000)),v)')"}
+{"action": "pair", "anchor": "W134", "status": "ok", "result": "paired", "pair_id": "F011", "partner": "W164", "signature": "('algebraic', 'add(mul(n,v),mul(n,v,v),v)')", "trivial": false}
+{"action": "pair", "anchor": "W137", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(mul(pow(v,-1),v),n),mul(v,v)),v),v)')"}
+{"action": "pair", "anchor": "W140", "status": "ok", "result": "no partner", "signature": "('diff', 1, 'add(c,mul(c,d2,pow(f,2)),mul(c,pow(f,3)))')"}
+{"action": "pair", "anchor": "W143", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(n,v),-1),v),mul(n,pow(add(n,v),-1),v,v),v)')"}
+{"action": "pair", "anchor": "W144", "status": "ok", "result": "no partner", "signature": "('diff', 1, 'add(c,d2)')"}
+{"action": "pair", "anchor": "W147", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(mul(n,v),v),-1),v),v)')"}
+{"action": "pair", "anchor": "W149", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(mul(n,v),v),-1),v),v)')"}
+{"action": "pair", "anchor": "W150", "status": "ok", "result": "no partner", "signature": "('diff', 4, 'add(c,d0010,d0100,d1000)')"}
+{"action": "pair", "anchor": "W151", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(v,-1),pow(v,-1),v),mul(n,pow(v,-1),pow(v,2)),mul(pow(v,-1),pow(v,-1),v),v)')"}

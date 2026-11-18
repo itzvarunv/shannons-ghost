@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Cryptoregiochemistry", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Sustainable fishery", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Epidemiology of chikungunya", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Huff model", "field": "economics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Annual percentage rate", "field": "finance", "status": "ok", "kept": true, "topic_id": "W103", "equations": 4}
+{"action": "fence", "title": "Acoustic lubrication", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Evanescent field", "field": "optics", "status": "ok", "kept": true, "topic_id": "W104", "equations": 15}
+{"action": "fence", "title": "Emission channeling", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Covariance intersection", "field": "control", "status": "ok", "kept": true, "topic_id": "W105", "equations": 2}
+{"action": "fence", "title": "Drug action", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}

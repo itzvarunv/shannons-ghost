@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Bohr–Van Leeuwen theorem", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W023", "equations": 11}
+{"action": "fence", "title": "Axial multipole moments", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W024", "equations": 11}
+{"action": "fence", "title": "Biothermia", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Annular velocity", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W025", "equations": 2}
+{"action": "fence", "title": "Iodine clock reaction", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Net reproduction rate", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cohort study", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dynamic discrete choice", "field": "economics", "status": "ok", "kept": true, "topic_id": "W026", "equations": 14}
+{"action": "fence", "title": "Convexity (finance)", "field": "finance", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Acoustic dispersion", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}

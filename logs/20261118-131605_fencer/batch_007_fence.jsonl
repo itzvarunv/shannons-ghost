@@ -1,0 +1,10 @@
+{"action": "fence", "title": "George S. Hammond", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Immigration reduction in the United States", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Contact tracing", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Exogenous and endogenous variables", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Credit valuation adjustment", "field": "finance", "status": "ok", "kept": true, "topic_id": "W021", "equations": 3}
+{"action": "fence", "title": "Acoustic droplet ejection", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Dichromatic reflectance model", "field": "optics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Cross section (physics)", "field": "nuclear", "status": "ok", "kept": true, "topic_id": "W022", "equations": 60}
+{"action": "fence", "title": "Artstein's theorem", "field": "control", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Loading dose", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 1 equations"}

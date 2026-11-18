@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Critical heat flux", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W011", "equations": 4}
+{"action": "fence", "title": "Bagnold's fluid", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Analytical light scattering", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Decline in insect populations", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Contagious disease", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Coate–Loury model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W012", "equations": 17}
+{"action": "fence", "title": "Enterprise value", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustical measurements and instrumentation", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Diamond turning", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Atomic number", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

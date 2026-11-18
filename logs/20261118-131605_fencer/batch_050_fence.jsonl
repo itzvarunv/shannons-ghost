@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Dirac structure", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W174", "equations": 9}
+{"action": "fence", "title": "Earth–ionosphere waveguide", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W175", "equations": 8}
+{"action": "fence", "title": "Heat bath", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W176", "equations": 2}
+{"action": "fence", "title": "Basset force", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W177", "equations": 4}
+{"action": "fence", "title": "Goldbeter–Koshland kinetics", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W178", "equations": 10}
+{"action": "fence", "title": "Life history theory", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Area compatibility factor", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Social welfare function", "field": "economics", "status": "ok", "kept": true, "topic_id": "W179", "equations": 9}
+{"action": "fence", "title": "Black–Scholes equation", "field": "finance", "status": "ok", "kept": true, "topic_id": "W180", "equations": 22}
+{"action": "fence", "title": "Acoustic approximation", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}

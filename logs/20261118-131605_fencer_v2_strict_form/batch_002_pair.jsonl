@@ -1,0 +1,10 @@
+{"action": "pair", "anchor": "W013", "status": "ok", "result": "paired", "pair_id": "F002", "partner": "W096", "signature": "('algebraic', 'add(mul(n,v,v,v),v)')", "trivial": false}
+{"action": "pair", "anchor": "W014", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,exp(mul(n,pow(add(mul(v,v),n),-1),v)),exp(mul(n,pow(add(mul(v,v),n),-1),v,v)),exp(mul(pow(add(mul(v,v),n),-1),v,v)),exp(mul(pow(add(mul(v,v),n),-1),v,v,v))),mul(pow(v,-1),v))')"}
+{"action": "pair", "anchor": "W015", "status": "ok", "result": "no partner", "signature": "('diff', 1, 'add(d1,mul(c,pow(f,2)))')"}
+{"action": "pair", "anchor": "W016", "status": "ok", "result": "paired", "pair_id": "F003", "partner": "W090", "signature": "('diff', 1, 'add(d1,mul(c,f),mul(c,pow(f,2)))')", "trivial": false}
+{"action": "pair", "anchor": "W019", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,log(add(mul(n,pow(add(mul(n,v),v),-1),v),mul(pow(add(mul(n,v),v),-1),v))),pow(v,1/2),v,v),mul(n,log(add(mul(n,pow(add(mul(n,v),v),-1),v),mul(pow(add(mul(n,v),v),-1),v))),pow(v,1/2),v,v,v),mul(n,v),mul(n,v,v,v,v),mul(v,v,v),v)')"}
+{"action": "pair", "anchor": "W020", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(mul(n,v,v),pow(v,2)),1/2)),v)')"}
+{"action": "pair", "anchor": "W022", "status": "ok", "result": "paired", "pair_id": "F004", "partner": "W031", "signature": "('diff', 1, 'add(d1,mul(c,f))')", "trivial": false}
+{"action": "pair", "anchor": "W025", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(mul(n,pow(v,2)),pow(v,2)),-1),v),v)')"}
+{"action": "pair", "anchor": "W032", "status": "ok", "result": "paired", "pair_id": "F005", "partner": "W124", "signature": "('diff', 1, 'add(d1,mul(c,f),mul(c,f,f))')", "trivial": false}
+{"action": "pair", "anchor": "W033", "status": "ok", "result": "no partner", "signature": "('algebraic', 'add(mul(n,pow(add(mul(n,v,v),pow(v,2),v),-1),pow(v,2),v),mul(n,pow(add(mul(n,v,v),pow(v,2),v),-1),pow(v,2),v),mul(n,pow(add(mul(n,v,v),pow(v,2),v),-1),v,v,v),v)')"}

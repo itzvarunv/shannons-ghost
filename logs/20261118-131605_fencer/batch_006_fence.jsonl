@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Financial correlation", "field": "finance", "status": "ok", "kept": true, "topic_id": "W017", "equations": 16}
+{"action": "fence", "title": "Acoustic circulator", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Distinctness of image", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "CD V-700", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bellman equation", "field": "control", "status": "ok", "kept": true, "topic_id": "W018", "equations": 17}
+{"action": "fence", "title": "PEGylation", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Super Bloch oscillations", "field": "mechanics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Cathode ray", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Departure function", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W019", "equations": 4}
+{"action": "fence", "title": "Batchelor vortex", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W020", "equations": 6}

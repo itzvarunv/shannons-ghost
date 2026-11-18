@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Flat-field correction", "field": "optics", "status": "ok", "kept": true, "topic_id": "W027", "equations": 3}
+{"action": "fence", "title": "Enterprise Radiation Forest", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Control theory", "field": "control", "status": "ok", "kept": true, "topic_id": "W028", "equations": 7}
+{"action": "fence", "title": "Blood–gas partition coefficient", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Classical Mechanics (Goldstein)", "field": "mechanics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Charge (physics)", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W029", "equations": 4}
+{"action": "fence", "title": "Binodal", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Open-channel flow", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W030", "equations": 31}
+{"action": "fence", "title": "Diffusion-controlled reaction", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W031", "equations": 15}
+{"action": "fence", "title": "Lotka–Volterra equations", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W032", "equations": 30}

@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Amorphism", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Human population projections", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Clinical epidemiology", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Recursive economics", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Delta neutral", "field": "finance", "status": "ok", "kept": true, "topic_id": "W172", "equations": 5}
+{"action": "fence", "title": "Acoustic lobing", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Gloss (optics)", "field": "optics", "status": "ok", "kept": true, "topic_id": "W173", "equations": 5}
+{"action": "fence", "title": "Artificial disintegration", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Anticausal system", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Grapefruit–drug interactions", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}

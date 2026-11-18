@@ -1,0 +1,127 @@
+[
+  {
+    "id": "T01",
+    "field": "glyph reckoning",
+    "description": "In glyph reckoning every glyph is either lit or dark. The compound glyph zo7 ∧ (te5 ∨ ma1) is studied, where ∧ is lit only when both sides are lit and ∨ is lit when at least one side is lit."
+  },
+  {
+    "id": "T02",
+    "field": "vorn craft",
+    "description": "At a vorn junction, two incoming trickles nu7 and se9 together equal the outgoing trickle ko1: nu7 + se9 = ko1."
+  },
+  {
+    "id": "T03",
+    "field": "tessel lore",
+    "description": "A tessel bent by an amount mo3 holds a reserve go9. With rebound coefficient to2, the reserve follows go9 = to2·mo3²/2."
+  },
+  {
+    "id": "T04",
+    "field": "vorn craft",
+    "description": "A clatter board has three clatters hu8, zo6 and ki8, each open or shut. The board lets a token through when vu8(hu8, tu1(zo6, ki8)) holds. A vu8 link lets the token through only when all of its inputs do; a tu1 link lets it through when at least one input does."
+  },
+  {
+    "id": "T05",
+    "field": "oddness tallying",
+    "description": "In oddness tallying, each mark ri8 and do6 is either set or unset. The tally ku8(ri8, do6) is set exactly when one, and only one, of its two marks is set."
+  },
+  {
+    "id": "T06",
+    "field": "orb lore",
+    "description": "Two orbs of heft bo5 and ta1 at separation ni3 share a pull reserve mu2. With pull constant mi2, mu2 = −mi2·bo5·ta1/ni3."
+  },
+  {
+    "id": "T07",
+    "field": "glim studies",
+    "description": "Along a glim bar, the glim level le1 depends on the clock reading tu8 and on the position zu1 along the bar. With spreading coefficient za7, the bar obeys ∂le1/∂tu8 = za7·∂²le1/∂zu1²."
+  },
+  {
+    "id": "T08",
+    "field": "brine works",
+    "description": "Brine runs through a narrow sluice. The sluice rate fa8 depends on the push difference fu4 across it and on the sluice's choke la1: fa8 = fu4/la1."
+  },
+  {
+    "id": "T09",
+    "field": "vorn craft",
+    "description": "A vorn loop holds a charge-like amount vo2 that varies with the clock reading bi6. The loop has an inertness su9, a hindrance wa7 and a holding capacity zu8, and a driving urge su5 is applied. The loop obeys su9·vo2'' + wa7·vo2' + vo2/zu8 = su5, where each ' is one rate of change with respect to bi6."
+  },
+  {
+    "id": "T10",
+    "field": "tessel lore",
+    "description": "A tessel slides along a groove. Its offset from rest is mi6, which changes with the clock reading pe7. The tessel's heft is su2, the groove's sluggishness coefficient is pa9, the tessel's rebound coefficient is ni8, and an outside shove hu5 acts on it. Observation gives su2·mi6'' + pa9·mi6' + ni8·mi6 = hu5, where each ' is one rate of change with respect to pe7."
+  },
+  {
+    "id": "T11",
+    "field": "ripple craft",
+    "description": "A taut ripple string has a sideways offset ku5 that depends on the clock reading ji9 and the position ka5. With ripple speed mu3, it obeys ∂²ku5/∂ji9² = mu3²·∂²ku5/∂ka5²."
+  },
+  {
+    "id": "T12",
+    "field": "tessel lore",
+    "description": "A swing-weight on a cord of length ja6 in a pull-field of strength vi7 swings through wide arcs. Its tilt la2 obeys la2'' + (vi7/ja6)·sin(la2) = 0, where each ' is one rate of change with respect to the clock reading ma4."
+  },
+  {
+    "id": "T13",
+    "field": "vorn craft",
+    "description": "A vorn trickle mi3 runs along a strand when an urge bi8 is applied across it. The strand's hindrance is hu4, and mi3 = bi8/hu4."
+  },
+  {
+    "id": "T14",
+    "field": "tessel lore",
+    "description": "A swing-weight hangs from a cord of length de3 in a pull-field of strength fu7. For small swings its tilt vu4 obeys vu4'' + (fu7/de3)·vu4 = 0, where each ' is one rate of change with respect to the clock reading ko6."
+  },
+  {
+    "id": "T15",
+    "field": "mote counting",
+    "description": "A heap of fading motes has count di6, which changes with the clock reading go2. With fade rate ba9, the heap obeys di6' = −ba9·di6, where ' is the rate of change with respect to go2."
+  },
+  {
+    "id": "T16",
+    "field": "vorn craft",
+    "description": "A vorn loop with inertness be9 and holding capacity ku3 sloshes a charge-like amount ve8 back and forth: ve8'' + ve8/(be9·ku3) = 0, where each ' is one rate of change with respect to the clock reading du1."
+  },
+  {
+    "id": "T17",
+    "field": "vorn craft",
+    "description": "A vorn reservoir holding a stock vi2 drains through a strand. With hindrance wo3 and holding capacity hu9, vi2' = −vi2/(wo3·hu9), where ' is the rate of change with respect to the clock reading wi5."
+  },
+  {
+    "id": "T18",
+    "field": "swarm lore",
+    "description": "A swarm of size ve6 grows with the clock reading wo5. With breeding rate zo8 and crowding ceiling gu9, ve6' = zo8·ve6·(1 − ve6/gu9), where ' is the rate of change with respect to wo5."
+  },
+  {
+    "id": "T19",
+    "field": "vorn craft",
+    "description": "A vorn reservoir under an urge ge7 holds a stock mo6. With holding capacity ho1, the stock follows mo6 = ho1·ge7²/2."
+  },
+  {
+    "id": "T20",
+    "field": "tessel lore",
+    "description": "A pellet drops freely in a pull-field of strength ni1. Its height zi7 obeys zi7'' = −ni1, where each ' is one rate of change with respect to the clock reading ta6."
+  },
+  {
+    "id": "T21",
+    "field": "glim studies",
+    "description": "A glowing slab at warmth te2 sheds glow at a rate gi2. With shedding constant di3 and face size gu6, gi2 = di3·gu6·te2⁴."
+  },
+  {
+    "id": "T22",
+    "field": "glyph reckoning",
+    "description": "In glyph reckoning every glyph is either lit or dark. The compound glyph ge1 ∨ na2 is lit when at least one of ge1 and na2 is lit."
+  },
+  {
+    "id": "T23",
+    "field": "brine works",
+    "description": "A pellet of heft ta7 sinks through brine in a pull-field of strength ji8. The brine resists in proportion to the square of the sinking speed mo9, with resistance coefficient ne6: ta7·mo9' + ne6·mo9² = ta7·ji8, where ' is the rate of change with respect to the clock reading je7."
+  },
+  {
+    "id": "T24",
+    "field": "girder lore",
+    "description": "At a girder knot, two girder pulls wu3 and zi2 together balance the knot's burden te3: wu3 + zi2 = te3."
+  },
+  {
+    "id": "T25",
+    "field": "murk studies",
+    "description": "In a murk channel, the murk density wu5 depends on the clock reading we8 and the position la8. With seep coefficient si9, the channel obeys ∂wu5/∂we8 = si9·∂²wu5/∂la8²."
+  }
+]

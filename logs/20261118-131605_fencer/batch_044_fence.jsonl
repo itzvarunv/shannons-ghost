@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Iridescence", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Formation evaluation neutron porosity", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Adaptive control", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Drug metabolism", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Circular motion", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W160", "equations": 33}
+{"action": "fence", "title": "Electric field", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W161", "equations": 29}
+{"action": "fence", "title": "Cooling curve", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bickley jet", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W162", "equations": 14}
+{"action": "fence", "title": "Bartell mechanism", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Fenchel's Law", "field": "population biology", "status": "ok", "kept": false, "why": "only 1 equations"}

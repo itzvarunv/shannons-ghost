@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Imaging", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cumulative dose", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Epistemic feedback", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cooperstown cocktail", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Elastic energy", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W181", "equations": 16}
+{"action": "fence", "title": "Active Network Management", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Batteryless radio", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bernoulli's principle", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W182", "equations": 48}
+{"action": "fence", "title": "Magnussen model", "field": "chemistry", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Frequency-dependent selection", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}

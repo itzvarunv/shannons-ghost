@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Error signal", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bioequivalence", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Hunting oscillation", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W067", "equations": 28}
+{"action": "fence", "title": "Source-synchronous", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Energy carrier", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Hydrological optimization", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "A Totally Hermetic Electron-Nucleus Apparatus", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Evolutionary dynamics", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W068", "equations": 3}
+{"action": "fence", "title": "Epidemiology of bed bugs", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Abstract economy", "field": "economics", "status": "ok", "kept": true, "topic_id": "W069", "equations": 23}

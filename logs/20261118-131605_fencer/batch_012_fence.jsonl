@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Data assimilation", "field": "control", "status": "ok", "kept": true, "topic_id": "W042", "equations": 3}
+{"action": "fence", "title": "Osmotic-controlled release oral delivery system", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Resonance", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W043", "equations": 49}
+{"action": "fence", "title": "Cavity perturbation theory", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W044", "equations": 11}
+{"action": "fence", "title": "Annular fin", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W045", "equations": 8}
+{"action": "fence", "title": "Darcy (unit)", "field": "fluids", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Karlovitz number", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W046", "equations": 6}
+{"action": "fence", "title": "Wildlife population", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cause (medicine)", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "International Futures", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}

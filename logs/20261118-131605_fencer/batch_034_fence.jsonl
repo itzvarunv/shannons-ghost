@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Alternative beta", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic tweezers", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W128", "equations": 31}
+{"action": "fence", "title": "Confocal", "field": "optics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Continuous slowing down approximation range", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Particle filter", "field": "control", "status": "ok", "kept": true, "topic_id": "W129", "equations": 111}
+{"action": "fence", "title": "Dissolution testing", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bonnet's theorem", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W130", "equations": 4}
+{"action": "fence", "title": "Algebra of physical space", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W131", "equations": 37}
+{"action": "fence", "title": "Bulk temperature", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Atomizer nozzle", "field": "fluids", "status": "ok", "kept": false, "why": "only 1 equations"}

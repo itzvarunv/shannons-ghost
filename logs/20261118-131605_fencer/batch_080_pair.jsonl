@@ -1,0 +1,10 @@
+{"action": "pair", "anchor": "W165", "status": "ok", "result": "no partner", "signature": "('diff', 2, ((0, 1), (1, 0)), True, True)"}
+{"action": "pair", "anchor": "W177", "status": "ok", "result": "no partner", "signature": "('diff', 2, ((0, 2), (1, 0)), True, False)"}
+{"action": "pair", "anchor": "W180", "status": "ok", "result": "no partner", "signature": "('diff', 2, ((0, 0), (0, 1), (0, 2), (1, 0)), True, False)"}
+{"action": "pair", "anchor": "W182", "status": "ok", "result": "no partner", "signature": "('algebraic', 3, ((), ('1',), ('1',), ('2',)))"}
+{"action": "pair", "anchor": "W195", "status": "ok", "result": "no partner", "signature": "('diff', 1, ((0,),), True, False)"}
+{"action": "pair", "anchor": "W198", "status": "ok", "result": "no partner", "signature": "('diff', 1, ((1,),), True, False)"}
+{"action": "pair", "anchor": "W005", "status": "ok", "result": "paired", "pair_id": "F010", "partner": "W007", "signature": "('algebraic', 1, ((), (), ('1',)))", "trivial": true}
+{"action": "pair", "anchor": "W009", "status": "ok", "result": "paired", "pair_id": "F011", "partner": "W012", "signature": "('algebraic', 1, ((), ('1',)))", "trivial": true}
+{"action": "pair", "anchor": "W011", "status": "ok", "result": "paired", "pair_id": "F012", "partner": "W036", "signature": "('algebraic', 1, ((), (), ('1',)))", "trivial": true}
+{"action": "pair", "anchor": "W013", "status": "ok", "result": "paired", "pair_id": "F013", "partner": "W014", "signature": "('algebraic', 1, ((), ('1',)))", "trivial": true}

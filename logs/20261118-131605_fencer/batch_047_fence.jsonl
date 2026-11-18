@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Dynamical system simulation", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Pegol", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Complex harmonic motion", "field": "mechanics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Electromagnetism", "field": "electrical", "status": "ok", "kept": true, "topic_id": "W168", "equations": 2}
+{"action": "fence", "title": "Gebhart factor", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W169", "equations": 7}
+{"action": "fence", "title": "Barber–Layden–Power effect", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Crystallographic database", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Population of Racibórz", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Connecting Organizations for Regional Disease Surveillance", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Transportation theory (mathematics)", "field": "economics", "status": "ok", "kept": true, "topic_id": "W170", "equations": 60}

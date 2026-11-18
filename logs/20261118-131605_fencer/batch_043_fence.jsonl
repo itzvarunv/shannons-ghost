@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Spatial acceleration", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W154", "equations": 4}
+{"action": "fence", "title": "Voltage multiplier", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Churchill–Bernstein equation", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W155", "equations": 2}
+{"action": "fence", "title": "Moody chart", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W156", "equations": 8}
+{"action": "fence", "title": "Darken's equations", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W157", "equations": 36}
+{"action": "fence", "title": "Consumer-resource model", "field": "population biology", "status": "ok", "kept": true, "topic_id": "W158", "equations": 31}
+{"action": "fence", "title": "AMR (R package)", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Social Choice and Individual Values", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Convexity correction", "field": "finance", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Acoustic resonance", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W159", "equations": 27}

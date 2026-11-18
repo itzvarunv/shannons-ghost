@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Multi-component reaction", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Delayed density dependence", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Atherosclerosis Risk in Communities", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Kaldor's growth laws", "field": "economics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Accumulation function", "field": "finance", "status": "ok", "kept": true, "topic_id": "W048", "equations": 9}
+{"action": "fence", "title": "Acoustic interferometer", "field": "acoustics", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Gradient-index optics", "field": "optics", "status": "ok", "kept": true, "topic_id": "W049", "equations": 4}
+{"action": "fence", "title": "Actinides in the environment", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Networked control system", "field": "control", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Bolus (medicine)", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}

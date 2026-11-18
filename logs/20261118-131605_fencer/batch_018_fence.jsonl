@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Applied Thermal Engineering", "field": "thermal", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Becker–Morduchow–Libby solution", "field": "fluids", "status": "ok", "kept": true, "topic_id": "W064", "equations": 46}
+{"action": "fence", "title": "Amorphous carbonia", "field": "chemistry", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "National Security Study Memorandum 200", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Cohort effect", "field": "epidemiology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "AK model", "field": "economics", "status": "ok", "kept": true, "topic_id": "W065", "equations": 10}
+{"action": "fence", "title": "Asset allocation", "field": "finance", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Acoustic location", "field": "acoustics", "status": "ok", "kept": true, "topic_id": "W066", "equations": 3}
+{"action": "fence", "title": "Defocus aberration", "field": "optics", "status": "ok", "kept": false, "why": "only 1 equations"}
+{"action": "fence", "title": "Decay product", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}

@@ -1,0 +1,7 @@
+{"batch": 1, "stage": "extract", "actions": 10, "ok": 10, "failed": 0, "file": "batch_001_extract.jsonl"}
+{"batch": 2, "stage": "extract", "actions": 10, "ok": 0, "failed": 10, "file": "batch_002_extract.jsonl"}
+{"batch": 3, "stage": "extract", "actions": 10, "ok": 10, "failed": 0, "file": "batch_003_extract.jsonl"}
+{"batch": 4, "stage": "extract", "actions": 5, "ok": 5, "failed": 0, "file": "batch_004_extract.jsonl"}
+{"batch": 5, "stage": "form_check", "actions": 10, "ok": 10, "failed": 0, "file": "batch_005_form_check.jsonl"}
+{"batch": 6, "stage": "form_check", "actions": 6, "ok": 6, "failed": 0, "file": "batch_006_form_check.jsonl"}
+{"batch": 7, "stage": "judge", "actions": 9, "ok": 9, "failed": 0, "file": "batch_007_judge.jsonl"}

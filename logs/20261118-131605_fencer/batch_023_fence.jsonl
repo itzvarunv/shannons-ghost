@@ -1,0 +1,10 @@
+{"action": "fence", "title": "Index ellipsoid", "field": "optics", "status": "ok", "kept": true, "topic_id": "W079", "equations": 12}
+{"action": "fence", "title": "Decay scheme", "field": "nuclear", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Feed forward (control)", "field": "control", "status": "ok", "kept": true, "topic_id": "W080", "equations": 6}
+{"action": "fence", "title": "Dosage form", "field": "pharmacology", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Beat (acoustics)", "field": "mechanics", "status": "ok", "kept": true, "topic_id": "W081", "equations": 2}
+{"action": "fence", "title": "Clock recovery", "field": "electrical", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Heat equation", "field": "thermal", "status": "ok", "kept": true, "topic_id": "W082", "equations": 106}
+{"action": "fence", "title": "Gear pump", "field": "fluids", "status": "ok", "kept": false, "why": "only 0 equations"}
+{"action": "fence", "title": "Atomic ratio", "field": "chemistry", "status": "ok", "kept": true, "topic_id": "W083", "equations": 4}
+{"action": "fence", "title": "Mouse plagues in Australia", "field": "population biology", "status": "ok", "kept": false, "why": "only 0 equations"}
